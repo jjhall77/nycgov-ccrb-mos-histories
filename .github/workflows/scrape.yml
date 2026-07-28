@@ -38,11 +38,13 @@ jobs:
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
-        # officers.csv added deliberately: it carries the full NYC Open Data
-        # officers payload (race, gender, last-reported-active date, complaint
-        # totals) that officers.json strips. No other repo archives it since
-        # ryanwatkins/ccrb-complaints-database was deleted (July 2026).
-        git add -A officers.json officers.csv complaints.json departureletters.json closingreports.json
+        # ccrb-complaints-database-officers.csv added deliberately: it is the
+        # RAW NYC Open Data (2fir-qns4) download carrying the full officers
+        # payload (race, gender, last-reported-active date, complaint totals)
+        # that both officers.json and the processed officers.csv strip. No
+        # other repo archives it since ryanwatkins/ccrb-complaints-database
+        # was deleted (July 2026).
+        git add -A officers.json officers.csv ccrb-complaints-database-officers.csv complaints.json departureletters.json closingreports.json
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push

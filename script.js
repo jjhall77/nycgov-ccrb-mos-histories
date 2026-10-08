@@ -81,12 +81,14 @@ async function save({ officers, allegations, closingReports, departureLetters })
   await fs.writeFile('records.json', JSON.stringify(combined.map(stripRecord), null, 2))
 }
 
+// 2026-10-08: Socrata retired /api/views/<id>/rows.csv (HTTP 410 "feature_deprecated");
+// /api/v3/views/<id>/export.csv returns the same human-readable headers and formats.
 async function fetchComplaints() {
   const files = [
-    { id: 'allegations', url: 'https://data.cityofnewyork.us/api/views/6xgr-kwjq/rows.csv?accessType=DOWNLOAD' },
-    { id: 'complaints',  url: 'https://data.cityofnewyork.us/api/views/2mby-ccnw/rows.csv?accessType=DOWNLOAD' },
-    { id: 'officers',    url: 'https://data.cityofnewyork.us/api/views/2fir-qns4/rows.csv?accessType=DOWNLOAD' },
-    { id: 'penalties',   url: 'https://data.cityofnewyork.us/api/views/keep-pkmh/rows.csv?accessType=DOWNLOAD' },
+    { id: 'allegations', url: 'https://data.cityofnewyork.us/api/v3/views/6xgr-kwjq/export.csv' },
+    { id: 'complaints',  url: 'https://data.cityofnewyork.us/api/v3/views/2mby-ccnw/export.csv' },
+    { id: 'officers',    url: 'https://data.cityofnewyork.us/api/v3/views/2fir-qns4/export.csv' },
+    { id: 'penalties',   url: 'https://data.cityofnewyork.us/api/v3/views/keep-pkmh/export.csv' },
   ]
   let results = {}
 

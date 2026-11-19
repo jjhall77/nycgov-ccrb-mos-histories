@@ -53878,7 +53878,7 @@ Tax ID,Active Per Last Reported Status,Last Reported Active Date,Officer First N
 940908,No,02/02/2026 11:31:25 AM,Minqin,Pan,Asian,Male,PO,Police Officer,007 PCT,03510,1,1
 940909,Yes,11/02/2026 08:26:02 AM,Nicodemus,Supangkat,Asian,Male,DT3,Detective,AC ZONE I,04966,1,0
 940910,Yes,11/02/2026 08:26:02 AM,Daniel,Castro,Hispanic,Male,PO,Police Officer,DBMN,18241,5,0
-940911,Yes,11/02/2026 08:26:02 AM,Anthony,Elio,White,Male,SGT,Sergeant,TD 12,02867,5,0
+940911,Yes,11/02/2026 08:26:02 AM,Anthony,Elio,White,Male,SGT,Sergeant,TD 12,02867,4,0
 940912,No,02/02/2026 11:31:25 AM,Abisag,Rivera,Hispanic,Female,DT3,Detective,123 DET SQD,00635,4,0
 940913,No,09/03/2024 12:58:56 PM,Joanna,Lopez,Hispanic,Female,PO,Police Officer,SRG 2,22248,0,0
 940914,No,02/01/2016 02:15:31 PM,Dina,Zeoli,White,Female,POF,Police Officer,FLT SVC,12811,0,0
@@ -65465,7 +65465,7 @@ Tax ID,Active Per Last Reported Status,Last Reported Active Date,Officer First N
 952943,No,03/01/2023 03:17:30 PM,Anec,Kolenovic,White,Male,PO,Police Officer,TD 1,17230,0,0
 952944,Yes,11/02/2026 08:26:02 AM,Tomasz,Konarzewski,White,Male,PO,Police Officer,122 PCT,31096,2,0
 952945,Yes,11/02/2026 08:26:02 AM,Krzysztof,Koncewicz,White,Male,LT,Lieutenant,062 PCT,00000,1,0
-952946,No,04/01/2026 02:55:10 PM,Rafal,Korycki,White,Male,SGT,Sergeant,M COURT,00942,19,9
+952946,No,04/01/2026 02:55:10 PM,Rafal,Korycki,White,Male,SGT,Sergeant,M COURT,00942,20,9
 952947,No,08/01/2023 11:42:36 AM,Brian,Kovarik,White,Male,DTS,Detective,ESS 04,04188,6,1
 952948,No,10/01/2015 01:01:34 PM,Vincent,Kozlosky,White,Male,POM,Police Officer,009 PCT,24071,0,0
 952949,No,05/01/2015 12:37:29 PM,Ryan,Kraemer,White,Male,POM,Police Officer,MTN PCT,27505,0,0
@@ -69670,7 +69670,7 @@ Tax ID,Active Per Last Reported Status,Last Reported Active Date,Officer First N
 957243,No,09/02/2014 10:56:48 AM,James,Vanholt,White,Male,POM,Police Officer,REC TNG,15231,0,0
 957244,Yes,11/02/2026 08:26:02 AM,Daniel,Vargas,Hispanic,Male,DTS,Detective,GVSU Z2,04865,5,1
 957245,Yes,11/02/2026 08:26:02 AM,Dennis,Vargas,Hispanic,Male,DT3,Detective,050 DET,07630,13,7
-957246,Yes,11/02/2026 08:26:02 AM,Soney,Varghese,Asian,Male,SGT,Sergeant,079 DET,03931,20,5
+957246,Yes,11/02/2026 08:26:02 AM,Soney,Varghese,Asian,Male,SGT,Sergeant,079 DET,03931,21,6
 957247,Yes,11/02/2026 08:26:02 AM,Zayira,Vasquez,Hispanic,Female,PO,Police Officer,PBSI SU FERRY,09856,0,0
 957248,Yes,11/02/2026 08:26:02 AM,Karla,Vega,Hispanic,Female,PO,Police Officer,TB BK TF,09103,0,0
 957249,Yes,11/02/2026 08:26:02 AM,Luis,Velandia,Hispanic,Male,DT3,Detective,M CHILD,05959,1,0
@@ -83389,7 +83389,7 @@ Tax ID,Active Per Last Reported Status,Last Reported Active Date,Officer First N
 971324,Yes,11/02/2026 08:26:02 AM,Thaimmy,Azcona,Hispanic,Female,PO,Police Officer,019 PCT,20909,2,0
 971325,No,10/30/2021 05:24:00 PM,Emil,Babu,Asian,Male,PO,Police Officer,RTS RECRUIT,14694,0,0
 971327,Yes,11/02/2026 08:26:02 AM,Melissa,Baez,Hispanic,Female,PO,Police Officer,013 PCT,06102,0,0
-971328,Yes,11/02/2026 08:26:02 AM,Mirza,Baig,Asian,Male,DTS,Detective,CW CRT,05402,15,2
+971328,Yes,11/02/2026 08:26:02 AM,Mirza,Baig,Asian,Male,DTS,Detective,CW CRT,05402,16,3
 971329,Yes,11/02/2026 08:26:02 AM,Arben,Bajraktarevic,White,Male,PO,Police Officer,066 PCT,06312,1,0
 971330,No,01/04/2023 10:52:01 AM,Natalie,Ballato,White,Female,PO,Police Officer,115 PCT,13280,1,0
 971331,Yes,11/02/2026 08:26:02 AM,Farhanullah,Bangash,Asian,Male,PO,Police Officer,013 PCT,16069,1,0
@@ -84281,7 +84281,7 @@ Tax ID,Active Per Last Reported Status,Last Reported Active Date,Officer First N
 972259,No,03/01/2024 10:12:10 AM,Jaskaran,Singh,Asian,Male,PO,Police Officer,105 PCT,21544,1,0
 972260,Yes,11/02/2026 08:26:02 AM,Mandeep,Pelia,Asian,Male,PO,Police Officer,017 PCT,27177,1,0
 972261,No,06/02/2022 10:48:42 AM,Manpreet,Singh,Asian,Male,PO,Police Officer,034 PCT,22544,0,0
-972262,Yes,11/02/2026 08:26:02 AM,Manpreet,Singh,Asian,Male,PO,Police Officer,001 DET,23163,9,2
+972262,Yes,11/02/2026 08:26:02 AM,Manpreet,Singh,Asian,Male,PO,Police Officer,001 DET,23163,10,3
 972263,Yes,11/02/2026 08:26:02 AM,Rajvir,Singh,Asian,Male,PO,Police Officer,102 PCT,25649,2,0
 972264,No,07/01/2026 02:27:18 PM,Michelle,Briones,Hispanic,Female,PO,Police Officer,112 PCT,27512,0,0
 972265,Yes,11/02/2026 08:26:02 AM,Sean,Slattery,White,Male,PO,Police Officer,019 PCT,25665,4,1
@@ -86705,7 +86705,7 @@ Tax ID,Active Per Last Reported Status,Last Reported Active Date,Officer First N
 974827,Yes,11/02/2026 08:26:02 AM,Jonathan,Domenech,Hispanic,Male,PO,Police Officer,049 PCT,21533,1,0
 974829,Yes,11/02/2026 08:26:02 AM,Sasha,Duprey,Hispanic,Female,PO,Police Officer,077 PCT,22256,4,0
 974830,No,08/02/2024 08:50:25 AM,Esterlyn,Duranortiz,Hispanic,Male,PO,Police Officer,042 PCT,23146,0,0
-974831,Yes,11/02/2026 08:26:02 AM,Morvens,Laporte,Black,Male,PO,Police Officer,073 PCT,20422,4,0
+974831,Yes,11/02/2026 08:26:02 AM,Morvens,Laporte,Black,Male,PO,Police Officer,073 PCT,20422,5,1
 974832,No,12/02/2025 08:15:54 AM,Kimberly,Acosta,Hispanic,Female,PO,Police Officer,BK COURT,19277,0,0
 974833,Yes,11/02/2026 08:26:02 AM,Mohamad,Elhabahbeh,White,Male,PO,Police Officer,PAID DTL,27323,1,0
 974834,No,01/02/2024 12:38:11 PM,Destine,Espinal,Hispanic,Female,PO,Police Officer,023 PCT,24910,0,0
@@ -87592,7 +87592,7 @@ Tax ID,Active Per Last Reported Status,Last Reported Active Date,Officer First N
 975766,No,05/01/2026 04:31:35 PM,Kevin,Riordan,White,Male,PO,Police Officer,MTN PCT,22504,0,0
 975767,No,01/02/2024 12:38:11 PM,Stephen,Rittenhouse,White,Male,PO,Police Officer,FLT SVC,03843,0,0
 975768,No,10/03/2023 08:51:18 AM,Jumayry,Rivaslizardo,Hispanic,Female,PO,Police Officer,046 PCT,05958,0,0
-975769,Yes,11/02/2026 08:26:02 AM,James,Rivera,Hispanic,Male,PO,Police Officer,073 PCT,12095,7,0
+975769,Yes,11/02/2026 08:26:02 AM,James,Rivera,Hispanic,Male,PO,Police Officer,073 PCT,12095,8,0
 975770,No,04/01/2024 10:40:49 AM,Curtis,Roberson,Black,Male,PO,Police Officer,070 PCT,31637,0,0
 975771,Yes,11/02/2026 08:26:02 AM,Adam,Rodriguez,Hispanic,Male,PO,Police Officer,SRG 3,03097,5,1
 975772,No,08/01/2025 12:44:45 PM,Anyicel,Rodriguez,Hispanic,Female,PO,Police Officer,PSA 6,03846,2,0
@@ -92199,7 +92199,7 @@ Tax ID,Active Per Last Reported Status,Last Reported Active Date,Officer First N
 980629,Yes,11/02/2026 08:26:02 AM,Diaeldeen,Jibril,White,Male,PO,Police Officer,060 PCT,27320,2,0
 980630,Yes,11/02/2026 08:26:02 AM,Chachita,Jimenez,Hispanic,Female,PO,Police Officer,025 PCT,06894,0,0
 980631,Yes,11/02/2026 08:26:02 AM,Varghese,John,Asian,Male,PO,Police Officer,TD 2,13661,1,0
-980632,Yes,11/02/2026 08:26:02 AM,Kiea,Johnson,Black,Female,PO,Police Officer,005 PCT,31540,0,0
+980632,Yes,11/02/2026 08:26:02 AM,Kiea,Johnson,Black,Female,PO,Police Officer,005 PCT,31540,1,1
 980633,Yes,11/02/2026 08:26:02 AM,Conor,Johnston,White,Male,PO,Police Officer,010 PCT,06385,0,0
 980634,Yes,11/02/2026 08:26:02 AM,Anthony,Jones,Black,Male,PO,Police Officer,106 PCT,27332,2,0
 980635,Yes,11/02/2026 08:26:02 AM,Lynise,Jones,Hispanic,Female,PO,Police Officer,M COURT,21943,0,0
@@ -92276,7 +92276,7 @@ Tax ID,Active Per Last Reported Status,Last Reported Active Date,Officer First N
 980707,Yes,11/02/2026 08:26:02 AM,Rosanel,Mendoza,Hispanic,Female,PO,Police Officer,043 PCT FTU,14295,0,0
 980708,Yes,11/02/2026 08:26:02 AM,Kevin,Merchanrios,Hispanic,Male,PO,Police Officer,PSA 7,10639,0,0
 980709,Yes,11/02/2026 08:26:02 AM,Erica,Merchannaulaguari,Hispanic,Female,PO,Police Officer,073 PCT,03550,0,0
-980710,Yes,11/02/2026 08:26:02 AM,Isiah,Mercury,Black,Male,PO,Police Officer,071 PCT,00241,0,0
+980710,Yes,11/02/2026 08:26:02 AM,Isiah,Mercury,Black,Male,PO,Police Officer,071 PCT,00241,1,1
 980711,Yes,11/02/2026 08:26:02 AM,Jamaal,Merrick,Black,Male,PO,Police Officer,EXT LV,31755,0,0
 980712,Yes,11/02/2026 08:26:02 AM,Alexis,Mevo,White,Female,PO,Police Officer,Q COURT,22668,0,0
 980713,Yes,11/02/2026 08:26:02 AM,Brian,Meza,Hispanic,Male,PO,Police Officer,067 PCT,13730,1,0

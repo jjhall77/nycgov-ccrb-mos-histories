@@ -2139334,6 +2139334,94 @@
     "board_disposition": "Complainant Unavailable"
   },
   {
+    "officer_id": "934788",
+    "complaint_id": "202508435",
+    "complaint_date": "2025-08-04",
+    "fado_type": "Discourtesy",
+    "allegation": "Word",
+    "board_disposition": "Miscellaneous - Subject Retired"
+  },
+  {
+    "officer_id": "934788",
+    "complaint_id": "202508435",
+    "complaint_date": "2025-08-04",
+    "fado_type": "Discourtesy",
+    "allegation": "Word",
+    "board_disposition": "Miscellaneous - Subject Retired"
+  },
+  {
+    "officer_id": "941039",
+    "complaint_id": "202508435",
+    "complaint_date": "2025-08-04",
+    "fado_type": "Force",
+    "allegation": "Chokehold",
+    "board_disposition": "Unfounded"
+  },
+  {
+    "officer_id": "941039",
+    "complaint_id": "202508435",
+    "complaint_date": "2025-08-04",
+    "fado_type": "Force",
+    "allegation": "Hit against inanimate object",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "941039",
+    "complaint_id": "202508435",
+    "complaint_date": "2025-08-04",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "941039",
+    "complaint_id": "202508435",
+    "complaint_date": "2025-08-04",
+    "fado_type": "Force",
+    "allegation": "Restricted Breathing",
+    "board_disposition": "Unable to Determine"
+  },
+  {
+    "officer_id": "952573",
+    "complaint_id": "202508435",
+    "complaint_date": "2025-08-04",
+    "fado_type": "Force",
+    "allegation": "Chokehold",
+    "board_disposition": "Unfounded"
+  },
+  {
+    "officer_id": "952573",
+    "complaint_id": "202508435",
+    "complaint_date": "2025-08-04",
+    "fado_type": "Force",
+    "allegation": "Hit against inanimate object",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "952573",
+    "complaint_id": "202508435",
+    "complaint_date": "2025-08-04",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "952573",
+    "complaint_id": "202508435",
+    "complaint_date": "2025-08-04",
+    "fado_type": "Force",
+    "allegation": "Restricted Breathing",
+    "board_disposition": "Unfounded"
+  },
+  {
+    "officer_id": "966174",
+    "complaint_id": "202508435",
+    "complaint_date": "2025-08-04",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
     "officer_id": "954083",
     "complaint_id": "202508437",
     "complaint_date": "2025-08-05",
